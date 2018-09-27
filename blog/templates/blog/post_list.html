@@ -1,4 +1,16 @@
 <html>
+<div id="header">
     <h1>Hi There!</h1>
-    <p>You're looking at <code>post_list.html</code></p>
+    <p class="heck_am_i">You're looking at <code>post_list.html</code></p>
+</div>
+<section id="posts">
+{% for post in posts %}
+ 
+<div id="post_content">
+    <p>published: {{ post.published_date }}</p>
+    <h1><a href="">{{ post.title }}</a></h1>
+    <p>{{ post.text|linebreaksbr }}</p>
+</div>
+{% endfor %}
+</section>
 </html>
