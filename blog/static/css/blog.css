@@ -19,20 +19,16 @@ rgb(72,78,77)
 
 
 */
-
-
-/* header */
-
-#header {
-
+body {
+    background-color: rgb(72,78,77);
 }
 
-#heck_am_i {
+.bg-dark {background-color: rgb(10,186,181)!important; color: rgb(255,255,255);}
 
-}
+.h1, h1 a {color: rgb(106,219,216);}
 
-/* content */
-
-#posts {
-
+#content_wrapper {
+    background-color: rgb(255,255,255);
+    width: 90%;
+    margin: 0 auto;
 }
