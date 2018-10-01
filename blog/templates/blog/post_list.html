@@ -49,7 +49,7 @@
 <div class="col-xs-12 col-md-8">
 <section id="posts">
 {% for post in posts %}
-    <div id="post_content">
+    <div class="post_content">
         <h1><a href="">{{ post.title }}</a></h1>
         <p>{% autoescape off %}{{ post.text|linebreaksbr }}{% endautoescape %}</p>
         <div class="post_meta"><p>{{ post.created_date }} by {{ post.author }}</p></div>
