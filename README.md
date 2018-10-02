@@ -1,6 +1,6 @@
 # My "First" Blog
 
-[![Python 3.7] (https://img.shields.io/python-3.7.0-green.svg)](https://www.python.org/downloads/release/python-370/)
+[![Python 3.7] (https://img.shields.io/badge/python-3.7.0-green.svg)](https://www.python.org/downloads/release/python-370/)
 
 
 [![Django 2.1.2] (https://img.shields.io/badge/django-2.1.2-20aa76.svg)](https://docs.djangoproject.com/en/2.1/releases/2.1.2/)
