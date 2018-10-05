@@ -14,8 +14,11 @@ Blog is now bootstrapped, responsive, and Tiffany blue.
 ### October 2, 2018
 Upgraded to Django 2.1.2, added badges to the readme (i hope)
 
+### October 5, 2018
+Flat pages are working now. Used a boilerplate default.html and copied boot strap theme examples. I'd eventually like to use a living style guide but this will do for now. 
+
 ----------------------------------------------
 
 #### Goals for this week:
 - [ ] More styles
-- [ ] Static pages
+- [x] ~~Static~~ Flat pages
