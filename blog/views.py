@@ -10,3 +10,7 @@ def post_list(request):
         posts = Post.objects.order_by('-created_date')
         return render(request, 'blog/post_list.html', {'posts': posts})
 
+def style_guide(request):
+
+        # Render the HTML template index.html with the data in the context variable
+        return render(request, 'blog/style_guide.html', context=context)
