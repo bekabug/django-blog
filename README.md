@@ -19,6 +19,11 @@ Flat pages are working now. Used a boilerplate default.html and copied boot stra
 
 ----------------------------------------------
 
-#### Goals for this week:
+## Goals for this week:
 - [ ] More styles
-- [x] ~~Static~~ Flat pages
+- [x] ~~Static~~ Flat pages 
+- [ ] Badges in the readme don't work
+
+## Near Future Goals
+- [ ] Upgrade github account
+- [ ] Setup project management
