@@ -1,5 +1,7 @@
 #+TITLE: Learning Django
-I decided to learn pyhton by learning django. I've been blogging and creating sites in WordPress for over a decade. The direction the WordPress core is heading is fine but I feel like I'm fighting it more and more. That I have to have a separate plugin to keep the editor from mangling my markup is frustrating. The Gutenberg editor made me want to scream. This is all my own problem and isn't a judgement on the WP Developers. What am I writing this in? Spacemacs.
+About 8 months ago I decided to learn Python. I hacked around a little on some different "lern 2 code" tutorials. The best way to learn is by doing so I'm learning Python now by learning Django. 
+
+I've been blogging and creating sites in WordPress and other platforms since the early 2000s (b2/b2 evolution era). The direction the WordPress core is heading these days is fine but I feel like I'm fighting it more than creating with it. That I have to have a separate plugin to keep the editor from mangling my markup is frustrating. The Gutenberg editor made me want to scream. This is all my own problem and isn't a judgement on the WP Developers. What am I writing this in? Spacemacs. That should tell you something...
 
 Eventually I'll try [[http://mezzanine.jupo.org/][Mezzanine]] but for now I'd like to keep this as vanilla as possible. 
 
