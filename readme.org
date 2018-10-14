@@ -11,3 +11,11 @@ This project is using:
 - jQuery 3.3.1
 - FontAwesome 5.3.1
 - Bootstrap 4.1.3
+
+* Resources
+I've used each of these for different things. Nothing has been a 1 stop resource but that's the way it should be. 
++ [[https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p][Corey Schafer's Django/Python Tutorial series]] (free)
++ [[https://docs.djangoproject.com/][The /Excellent/ Django Documentation]] (free)
++ [[https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django][Mozilla Django/Python Guide]] (free)
++ [[https://www.udemy.com/python-and-django-full-stack-web-developer-bootcamp/][Python and Django Full Stack Web Developer Bootcamp]] (paid) Note: This entire course is Python 3 and Django 1.11. I've since udpated to Django 2.1.2 and have all but abandoned this one. If you're legit a beginner and need some css/html/js/jquery foundations, this is excellent.
++ [[https://www.youtube.com/channel/UCAx4nmhI7S1RcPiaG-Uw0tg][Max Goodridge's Python for Beginners and Django Framework series]] (free)
