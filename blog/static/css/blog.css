@@ -1,34 +1,20 @@
-/* Style Guide 
-=======
-Colors
-=======
-
-+---------------+-----------------+-----------------+------------------+------------------+------------------+
-| Tiffany (hex) | #0ABAB5         | #3ACBC7         | #6ADBD8          | #99ECEA          | #C9FCFB          |
-+---------------+-----------------+-----------------+------------------+------------------+------------------+
-| Tiffany (rgb) | rgb(10,186,181) | rgb(58,203,199) | rgb(106,219,216) | rgb(153,236,234) | rgb(201,252,251) |
-+---------------+-----------------+-----------------+------------------+------------------+------------------+
-
-Silver:
-#ACB6BA
-rgb(172,182,186)
-
-Platinum:
-#484E4D
-rgb(72,78,77)
-
-
-*/
 body {
-    background-color: rgb(72,78,77);
+  background-color: #484e4d;
 }
 
-.bg-dark {background-color: rgb(10,186,181)!important; color: rgb(255,255,255);}
+.bg-dark {
+  background-color: #0abab5 !important;
+  color: white;
+}
 
-.h1, h1 a {color: rgb(106,219,216);}
+.h1, h1 a {
+  color: #0abab5;
+}
 
 #content_wrapper {
-    background-color: rgb(255,255,255);
-    width: 90%;
-    margin: 0 auto;
+  background-color: white;
+  width: 90%;
+  margin: 0 auto;
 }
+
+/*# sourceMappingURL=blog.css.map */
