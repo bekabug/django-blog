@@ -14,6 +14,7 @@ This project is using:
 
 * Resources
 I've used each of these for different things. Nothing has been a 1 stop resource but that's the way it should be. 
++ [[https://djangogirls.com][Django Girls]] where it all began...it's a wonderful starting point but I struggled so much following the tutorial online. I think it needs to be updated or...I don't know what. Definitely worth contributing to or supporting. (free)
 + [[https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p][Corey Schafer's Django/Python Tutorial series]] (free)
 + [[https://docs.djangoproject.com/][The /Excellent/ Django Documentation]] (free)
 + [[https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django][Mozilla Django/Python Guide]] (free)
