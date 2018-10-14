@@ -4,16 +4,25 @@ $tiffany:rgb(10,186,181);
 $tiffanylight: rgb(106,219,216);
 $tiffanypale: rgb(153,236,234);
 
+@import url('https://fonts.googleapis.com/css?family=Passion+One');
+
 body {
     background-color: $platinum;
 }
 
 .bg-dark {background-color: $tiffany!important; color: white;}
 
-.h1, h1 a {color: $tiffany;}
+.h1, h1 a {
+    color: $tiffany;
+    font-family: 'Passion One', cursive;
+}
 
 #content_wrapper {
     background-color: white;
     width: 90%;
     margin: 0 auto;
+}
+
+.post_meta {
+    font-size: 50%;
 }
