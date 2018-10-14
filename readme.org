@@ -1,33 +1,11 @@
-#+TITLE: Beka Is Learning Django
-I decided to learn pyhton by learning django and now here we are.
+#+TITLE: Learning Django
+I decided to learn pyhton by learning django. I've been blogging and creating sites in WordPress for over a decade. The direction the WordPress core is heading is fine but I feel like I'm fighting it more and more. That I have to have a separate plugin to keep the editor from mangling my markup is frustrating. The Gutenberg editor made me want to scream. This is all my own problem and isn't a judgement on the WP Developers. What am I writing this in? Spacemacs.
 
-* Progress Log
-** September 21, 2018
-It's actually my first django blog.
+Eventually I'll try [[http://mezzanine.jupo.org/][Mezzanine]] but for now I'd like to keep this as vanilla as possible. 
 
-** September 30, 2018
-Blog is now bootstrapped, responsive, and Tiffany blue.
+This project is using:
 
-** October 2, 2018
-  :LOGBOOK:
-  CLOCK: [2018-10-13 Sat 22:02]--[2018-10-13 Sat 22:02] =>  0:00
-  :END:
-Upgraded to Django 2.1.2, added badges to the readme (i hope)
-
-** October 5, 2018
-   Flat pages are working now. Used a boilerplate default.html and copied boot strap theme examples. I'd eventually like to use a living style guide but this will do for now.
-
-------
-
-* Immediate Future Goals
-** TODO More styling of the pages
-** TODO Convert css to scss
-** TODO Flat pages
-* Near Future Goals
-** TODO Living style guide
-** TODO Upgrade github account
-** TODO Setup project management
-* Long Term Goals
-** TODO Check out Mezzanine
-* Someday Maybe Goals
-** TODO Buy a domain? 
+- Django 2.1.2
+- jQuery 3.3.1
+- FontAwesome 5.3.1
+- Bootstrap 4.1.3
