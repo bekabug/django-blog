@@ -1,0 +1,27 @@
+/* blog app/static/css/blog.css */
+@import url("https://fonts.googleapis.com/css?family=Passion+One");
+body {
+  background-color: #484e4d;
+}
+
+.bg-dark {
+  background-color: #0abab5 !important;
+  color: white;
+}
+
+.h1, h1 a {
+  color: #0abab5;
+  font-family: "Passion One", cursive;
+}
+
+#content_wrapper {
+  background-color: white;
+  width: 90%;
+  margin: 0 auto;
+}
+
+.post_meta {
+  font-size: 50%;
+}
+
+/*# sourceMappingURL=blog.css.map */
